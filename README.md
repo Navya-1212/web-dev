@@ -1,2 +1,2 @@
 # web-dev
-this is my git repository
+this is my first git repository
